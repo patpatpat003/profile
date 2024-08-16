@@ -1,7 +1,7 @@
 package main
 
 import (
-	"backend/profile"
+	"github.com/patpatpat003/profile"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )

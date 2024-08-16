@@ -1,4 +1,4 @@
-module github.com/profile
+module github.com/patpatpat003/profile
 
 go 1.22.5
 
